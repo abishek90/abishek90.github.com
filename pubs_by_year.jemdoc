@@ -4,6 +4,26 @@
 = Publications by Year
 ==
 
+== 2026
+
+- [https://ojs.aaai.org/index.php/AAAI/article/view/39447 Probabilistic Hash Embeddings for Online Learning of Categorical Features] \n
+  Aodong Li, Abishek Sankararaman, Balakrishnan Murali Narayanaswamy \n
+  *AAAI 2026* \n
+
+== 2025
+
+- [https://proceedings.mlr.press/v267/shah25c.html SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors] \n
+  Saumya Gaurang Shah, Abishek Sankararaman, Balakrishnan Murali Narayanaswamy, Vikramank Singh \n
+  *ICML 2025* \n
+
+- [https://openreview.net/forum?id=EPxzr9WU1R Robust Online Inference Using Adaptive Model Switching] \n
+  Kalpan Mukherjee, Vikramank Singh, Abishek Sankararaman, Balakrishnan Murali Narayanaswamy, Tim Kraska \n
+  *ICLR 2025 Workshop* \n
+
+- [https://arxiv.org/abs/2505.19302 ODIN: A NL2SQL Recommender to Handle Schema Ambiguity] \n
+  Kapil Vaidya, Abishek Sankararaman, Jialin Ding, Chuan Lei, Xiao Qin, Balakrishnan Narayanaswamy, Tim Kraska \n
+  *arXiv 2025* \n
+
 == 2024
 
 - [online_thresholds.pdf Online Adaptive Anomaly Thresholding with Confidence Sequences] \n
@@ -38,7 +58,7 @@ Multi-Agent Stochastic Linear Bandits
 ] \n Avishek Ghosh, Abishek Sankararaman (Joint First Authors) and Kannan Ramachandran \n *ECML-PKDD 2022* \n
 
 
-- [multi-agent-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n *IEEE Transactions on Automatic Control, 2022* \n
+- [multi-agent-linear-bandit.pdf Multi-Agent Low-Dimensional Linear Bandits] \n Ronshee Chawla, Abishek Sankararaman and Sanjay Shakkottai \n *IEEE Transactions on Automatic Control, 2022* \n
 
 
 == 2021

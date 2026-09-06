@@ -21,7 +21,7 @@ Email : abishek@utexas.edu , abisanka@amazon.com
 ==
 \n
 
-I am an Applied Scientist at Amazon (AWS) working on large scale machine learning. I am part of an amazing team that built [https://docs.aws.amazon.com/guardduty/latest/ug/rds-protection.html GuardDuty for RDS] and with whom I get to work on on a variety of scientific and engineering efforts in anomaly detection and online learning. \n
+I am a Senior ML Scientist at Amazon Web Services, where I lead the research, design, and productionization of adaptive machine-learning and agentic systems. I originated and led the science behind [https://docs.aws.amazon.com/guardduty/latest/ug/rds-protection.html GuardDuty for RDS Protection], an unsupervised online system that adapts to each customer and changing data. More recently, I have set technical direction for agent memory, orchestration, evaluation, personal knowledge graphs, and structured-data capabilities shipped across Amazon Quick and the SageMaker assistant. \n
 
 *Trajectory* \n
 
@@ -30,6 +30,10 @@ Before AWS, I was a  post-doctoral researcher at University of California, Berke
 
 
 == Recent Papers
+- [https://ojs.aaai.org/index.php/AAAI/article/view/39447 Probabilistic Hash Embeddings for Online Learning of Categorical Features]
+- [https://proceedings.mlr.press/v267/shah25c.html SEAD: Unsupervised Ensemble of Streaming Anomaly Detectors]
+- [https://openreview.net/forum?id=EPxzr9WU1R Robust Online Inference Using Adaptive Model Switching]
+- [https://arxiv.org/abs/2505.19302 ODIN: A NL2SQL Recommender to Handle Schema Ambiguity]
 - [online_estimation.pdf Online robust non-stationary estimation]
 - [ocpd.pdf Online heavy-tailed change point detection]
 - [fitness_ad.pdf FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers]
@@ -41,7 +45,6 @@ Before AWS, I was a  post-doctoral researcher at University of California, Berke
 - Anomaly Detection
 - Stochastic Networks - (Random Graphs, Spatial Dynamical Networks, Multi-agent systems)
 - Distributed Algorithms
-
 
 
 
