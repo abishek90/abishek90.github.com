@@ -259,6 +259,35 @@ h1 {
 
 .research-strip span { padding: 0.5rem 0.8rem; }
 
+.collaborator-list {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.collaborator-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.collaborator-list a {
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.collaborator-list a:hover { color: var(--blue); }
+
+.collaborator-list span {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  text-align: right;
+}
+
 .trajectory {
   display: grid;
   grid-template-columns: 1fr 1fr;

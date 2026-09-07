@@ -21,11 +21,19 @@ Email : abishek@utexas.edu , abisanka@amazon.com
 ==
 \n
 
-I am a Senior ML Scientist at Amazon Web Services. I work on online learning, anomaly detection, agent memory and orchestration, and learning problems in stochastic networks. My work includes theoretical research and deployed machine-learning systems, including [https://docs.aws.amazon.com/guardduty/latest/ug/rds-protection.html GuardDuty for RDS Protection] and capabilities in Amazon Quick and the SageMaker assistant. \n
+I am an ML research scientist and engineer working on online learning, anomaly detection, agent memory and orchestration, and learning problems in stochastic networks. My work includes theoretical research and deployed machine-learning systems, including [https://docs.aws.amazon.com/guardduty/latest/ug/rds-protection.html GuardDuty for RDS Protection] and capabilities in Amazon Quick and the SageMaker assistant. \n
 
 *Background* \n
 
-Before AWS, I was a  post-doctoral researcher at University of California, Berkeley, hosted by [https://people.eecs.berkeley.edu/~ananth/?_ga=2.265916295.944206018.1658767219-220427129.1570763517 Venkat Anantharam]. I received my PhD ([defense_slides.pdf thesis defense]) from The University of Texas at Austin, where  I was affiliated with the [https://www.ma.utexas.edu/simons/ Simons Center for Network Mathematics ] and advised by [http://www.ma.utexas.edu/users/baccelli/ François Baccelli]. I was also fortunate to collaborate and learn from [https://sites.google.com/view/sanjay-shakkottai/home Sanjay Shakkottai], [https://researchportal.hw.ac.uk/en/persons/sergey-foss Sergey Foss], [http://users.ece.utexas.edu/~hvikalo/ Haris Vikalo] during grad school. I spent my childhood years in Bengaluru with my brother [http://karthikabinavs.xyz/ Karthik Abinav Sankararaman] before completing an undergraduate degree from IIT Madras.
+From 2020 to 2026, I worked at Amazon Web Services. Before that, I was a postdoctoral researcher at the University of California, Berkeley, hosted by Venkat Anantharam. I received my PhD from The University of Texas at Austin, where I was advised by François Baccelli. I completed my B.Tech. and M.Tech. at IIT Madras.
+
+== Academic Collaborators
+
+- [https://www2.eecs.berkeley.edu/Faculty/Homepages/anantharam.html Venkat Anantharam]
+- [https://ece.utexas.edu/people/faculty/francois-baccelli François Baccelli]
+- [https://www.cs.utexas.edu/people/faculty-researchers/sanjay-shakkottai Sanjay Shakkottai]
+- [https://www.hw.ac.uk/profiles/uk/school/macs/faculty/sergey-foss Sergey Foss]
+- [https://ece.utexas.edu/people/faculty/haris-vikalo Haris Vikalo]
 
 
 
@@ -45,6 +53,4 @@ Before AWS, I was a  post-doctoral researcher at University of California, Berke
 - Anomaly Detection
 - Stochastic Networks - (Random Graphs, Spatial Dynamical Networks, Multi-agent systems)
 - Distributed Algorithms
-
-
 
